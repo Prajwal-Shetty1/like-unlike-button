@@ -1,1 +1,1 @@
-An interactive web app with "Like" and "Unlike" buttons. Clicking "Like" increases the counter, clicking "Unlike" decreases it (without going below zero). Built using HTML, CSS, and JavaScript.
+An interactive web app,When the user clicks "Like" and "Unlike" buttons. Clicking "Like" increases the counter, clicking "Unlike" decreases it (without going below zero). Built using HTML, CSS, and JavaScript.
