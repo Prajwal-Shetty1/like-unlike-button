@@ -1,0 +1,36 @@
+
+body{
+    background-color: blueviolet;
+    text-align: center;
+    box-sizing: border-box;
+    color: #fff;
+    font-size: large;
+}
+.like-btn{
+     background-color: rgb(12, 86, 12);
+     border-radius: 10px;
+     border: none;
+     color: #fff;
+     font-size: 1.4rem;
+     font-weight: bolder;
+     padding-right: 1rem;
+     padding-left: 1rem;
+     margin-right: 1rem;
+}
+
+.unlike-btn{
+    background-color:rgb(131, 14, 14);
+    border-radius: 10px;
+    border: none;
+    color:#fff;
+    font-size: 1.4rem;
+    font-weight: bolder;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+.like-btn:hover{
+    background-color: rgb(4, 62, 4);
+}
+.unlike-btn:hover{
+    background-color: rgb(59, 7, 7);
+}
